@@ -1,3 +1,4 @@
+// Referencias a elementos del DOM
 const red = document.getElementById("red");
 const green = document.getElementById("green");
 const blue = document.getElementById("blue");
